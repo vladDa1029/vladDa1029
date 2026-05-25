@@ -1,16 +1,4 @@
-<h1 align="center">Python Backend Developer</h1>
-
-<p align="center">
-Python backend developer working with asynchronous services
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladDa1029/vladDa1029/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladDa1029/vladDa1029/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vladDa1029/vladDa1029/output/github-snake.svg">
-</picture>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&width=500&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+Redis+%7C+RabbitMQ;Async+Architecture+%7C+Microservices)](https://git.io/typing-svg)
 
 ---
 
@@ -29,24 +17,28 @@ Main interests:
 
 ### Stack
 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,mongodb,rabbitmq,docker,linux,git" />
-</p>
+[![](https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,mongodb,rabbitmq,docker,linux,git)](https://skillicons.dev)
 
 ---
 
 ### Courses
-- [Software engineering](assets/Software-engineering.pdf)
-- [Hack - 2025 Autumn](assets/hack-2025-autumn.pdf)
-- [Hack - 2025 Spring](assets/hack-2025-spring.pdf)
+
+- [Software engineering](https://github.com/vladDa1029/vladDa1029/blob/main/assets/Software-engineering.pdf)
+- [Hack - 2025 Autumn](https://github.com/vladDa1029/vladDa1029/blob/main/assets/hack-2025-autumn.pdf)
+- [Hack - 2025 Spring](https://github.com/vladDa1029/vladDa1029/blob/main/assets/hack-2025-spring.pdf)
 
 ---
 
-### GitHub stats
+### GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vladDa1029&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladDa1029&layout=compact&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=vladDa1029&theme=dark&hide_border=true)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vladDa1029&theme=react-dark&hide_border=true)](https://github.com/vladDa1029)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vladDa1029&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/vladDa1029)
+
+![Visitors](https://komarev.com/ghpvc/?username=vladDa1029&color=F97316&style=flat-square&label=Profile+Views)
+
+---
+
+![github contribution snake](https://raw.githubusercontent.com/vladDa1029/vladDa1029/output/github-snake.svg)
